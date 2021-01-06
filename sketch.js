@@ -38,4 +38,7 @@ console.log(aditya);
 console.log(aditya[3])
 
 
+console.log("hai")
+console,log("bai")
+
 }
