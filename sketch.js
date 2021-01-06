@@ -17,7 +17,7 @@ x=6;
 console.log(x);
 
 aditya=["blue","yellow","cat","a"]
-          
+  
          
 singh=[["student1","aditya"],["student2","ram"],["student3","pavan"],["student4","sandeep"]]
                 
@@ -34,7 +34,8 @@ function draw() {
   background("lightblue");  
 Engine.update(engine);
 
-
+console.log(aditya);
+console.log(aditya[3])
 
 
 }
